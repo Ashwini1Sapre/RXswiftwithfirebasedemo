@@ -1,0 +1,6 @@
+framework module Pods_RXswiftwithfirebasedemo_RXswiftwithfirebasedemoUITests {
+  umbrella header "Pods-RXswiftwithfirebasedemo-RXswiftwithfirebasedemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
